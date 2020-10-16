@@ -1,0 +1,675 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "ABOUT THE COURSE",
+    "displayTitle": "ABOUT THE COURSE",
+    "body": "<p>The course critically highlights current educational issues and policies across countries published in various reputable sources, such as scientific journals, proceedings, magazines, films, videos, and newspapers. Discussion, report writing, presentation, and debates are conducted on the bases of the priority issues currently in the attention of various academic forums.</p>",
+    "_id": "5f849e3685f2131300377cdc",
+    "_parentId": "5f849e3685f2131300377cdb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "list",
+    "_classes": "white-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "LEARNING OBJECTIVES",
+    "displayTitle": "LEARNING OBJECTIVES",
+    "body": "<p>After completing the course, students are expected to develop their:</p>",
+    "_id": "5f8697c0b1179b13bc9f5500",
+    "_parentId": "5f86979cb1179b13bc9f54ff",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 50,
+    "_orderedList": false,
+    "_items": [
+      {
+        "title": "perspectives,",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "critical thinking,",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "literacy skills, and",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "communication skills",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>on educational issues and policies across countries.</p>",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "blinds",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "ACTIVITIES",
+    "displayTitle": "ACTIVITIES",
+    "body": "",
+    "_id": "5f86b2b4b1179b13bc9f5509",
+    "_parentId": "5f86a624b1179b13bc9f5505",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "height": 500,
+    "_expandBy": 2,
+    "_items": [
+      {
+        "src": "course/en/assets/4f6dd1fb4b2ad1a5b9713051702af4f1e223c6d2.jpg",
+        "alt": "",
+        "_captions": [
+          {
+            "text": "Lecture",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      },
+      {
+        "src": "course/en/assets/2dc42f96fcc3cf8521cc5568c29b12106664607e.jpg",
+        "alt": "",
+        "_captions": [
+          {
+            "text": "Individual projects on hot topics selection",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      },
+      {
+        "src": "course/en/assets/8d73710af48d75ff2dfe60abce59a2da3d8e8ded.jpg",
+        "alt": "",
+        "_captions": [
+          {
+            "text": "Group projects on hot topics selection",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      },
+      {
+        "src": "course/en/assets/ad0d85add0209849b9088437643768699c5b5173.jpg",
+        "alt": "",
+        "_captions": [
+          {
+            "text": "Debates",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      }
+    ],
+    "bottomText": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "ASSESSMENT",
+    "displayTitle": "ASSESSMENT",
+    "body": "<ol><li>Presence and class participation.</li><li>Individual projects.</li><li>Group projects.</li></ol><table align=\"center\" border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"><thead><tr><th scope=\"row\" style=\"background-color: rgb(58, 175, 169);\"><span style=\"color:#feffff\"><strong>Score</strong></span></th><th scope=\"col\" style=\"background-color: rgb(58, 175, 169);\"><span style=\"color:#feffff\"><strong>Achievement Level</strong></span></th><th scope=\"col\" style=\"background-color: rgb(58, 175, 169);\"><span style=\"color:#feffff\"><strong>Grade / Scale</strong></span></th></tr></thead><tbody><tr><th scope=\"row\" style=\"background-color: rgb(58, 175, 169);\"><span style=\"color:#feffff\">A</span></th><td style=\"text-align: center;\">86 - 100 %</td><td style=\"text-align: center;\">4</td></tr><tr><th scope=\"row\" style=\"background-color: rgb(58, 175, 169);\"><span style=\"color:#feffff\">A-</span></th><td style=\"text-align: center;\">81 - 85 %</td><td style=\"text-align: center;\">3,7</td></tr><tr><th scope=\"row\" style=\"background-color: rgb(58, 175, 169);\"><span style=\"color:#feffff\">B+</span></th><td style=\"text-align: center;\">76 - 80 %</td><td style=\"text-align: center;\">3,3</td></tr><tr><th scope=\"row\" style=\"background-color: rgb(58, 175, 169);\"><span style=\"color:#feffff\">B</span></th><td style=\"text-align: center;\">71 - 75 %</td><td style=\"text-align: center;\">3</td></tr><tr><th scope=\"row\" style=\"background-color: rgb(58, 175, 169);\"><span style=\"color:#feffff\">B-</span></th><td style=\"text-align: center;\">66 - 70 %</td><td style=\"text-align: center;\">2,7</td></tr><tr><th scope=\"row\" style=\"background-color: rgb(58, 175, 169);\"><span style=\"color:#feffff\">C+</span></th><td style=\"text-align: center;\">61 - 65 %</td><td style=\"text-align: center;\">2,3</td></tr><tr><th scope=\"row\" style=\"background-color: rgb(58, 175, 169);\"><span style=\"color:#feffff\">C</span></th><td style=\"text-align: center;\">56 - 60 %</td><td style=\"text-align: center;\">2</td></tr><tr><th scope=\"row\" style=\"background-color: rgb(58, 175, 169);\"><span style=\"color:#feffff\">C-</span></th><td style=\"text-align: center;\">51 - 55 %</td><td style=\"text-align: center;\">1,7</td></tr><tr><th scope=\"row\" style=\"background-color: rgb(58, 175, 169);\"><span style=\"color:#feffff\">D</span></th><td style=\"text-align: center;\">46 - 50 %</td><td style=\"text-align: center;\">1</td></tr><tr><th scope=\"row\" style=\"background-color: rgb(58, 175, 169);\"><span style=\"color:#feffff\">E</span></th><td style=\"text-align: center;\">0 - 45 %</td><td style=\"text-align: center;\">0</td></tr></tbody></table><p>&nbsp;</p>",
+    "_id": "5f86b4d1b1179b13bc9f550b",
+    "_parentId": "5f86b4a3b1179b13bc9f550a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "COURSE POLICIES",
+    "displayTitle": "COURSE POLICIES",
+    "body": "",
+    "_id": "5f86b4f1b1179b13bc9f550d",
+    "_parentId": "5f86b4d3b1179b13bc9f550c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Attendance",
+        "body": "<p>Attendance to 80% of the overall number of class meetings (synchronous and asynchronous learning) in the semester is a prerequisite to take the final test and/or to get the final mark. Attendance is not counted as part of the final mark.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Latecomers",
+        "body": "<p>An attendance to a class meeting of synchronous learning is taken 10 minutes after the class starts. More-than-10-minute latecomers are allowed to attend the class but the attendance is not counted.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Missed Exams/Assignments",
+        "body": "<p>Each will score and will be equally counted as part of the average score for the final mark.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Academic Dishonesty",
+        "body": "<ul><li>It is considered a serious crime and seriously taken as an offence to the students’ academic integrity. Therefore, any evidence of plagiarism of any amount will result in a Failed mark.</li><li><p>Students are to obey standard policy and regulations on honesty in academic work and avoid committing plagiarism and cheating in any assigned work.</p></li><li><p>Committing plagiarism in an academic work and/or cheating on an exam&nbsp; will result in a “0” for the work and/or exam.</p></li><li><p>Details on plagiarism may be found at http://www.plagiarism.org.</p></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Attitude In The Classroom",
+        "body": "<p>Students have to participate actively in the class activities by:</p><ol><li>presenting their best ideas and thoughts coherently,</li><li>using their best English in regard to the pronunciation, word stressing, and intonation, and</li><li>demonstrating socially acceptable manner.</li></ol>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "list",
+    "_classes": "white-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "LEARNING OUTCOMES",
+    "displayTitle": "LEARNING OUTCOMES",
+    "body": "",
+    "_id": "5f86fc96b1179b13bc9f556d",
+    "_parentId": "5f87e44bc343f02454bee579",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 50,
+    "_orderedList": false,
+    "_items": [
+      {
+        "title": "Understand and interpret",
+        "body": "<p>the issues and policies in education.</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "Link ideas and analyse",
+        "body": "<p>the differences, organizations, and attributes of the issues and policies in education.</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "Question and evaluate",
+        "body": "<p>(check and critique) the issues and policies in education</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "Experiment, generate, and plan",
+        "body": "<p>further development in the area reviewed.</p>",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "MAIN TOPICS",
+    "displayTitle": "MAIN TOPICS",
+    "body": "",
+    "_id": "5f86ffa3b1179b13bc9f556e",
+    "_parentId": "5f86a392b1179b13bc9f5503",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click pin",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/e174d557e83d8f68b7e206425eb838edfdead43d.png",
+      "alt": "",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "<p>Click label</p>",
+    "_hidePagination": true,
+    "_canCycleThroughPagination": false,
+    "_useNumberedPins": false,
+    "_useGraphicsAsPins": false,
+    "_isRound": false,
+    "_items": [
+      {
+        "title": "The 21st-Century Learning and Skills of Disruptive Innovators",
+        "_ariaLevel": 0,
+        "body": "<ul><li>21th-Century Skills.</li><li>Literacy &amp; thinking skills.</li><li>Challenges &amp; Strategies.</li></ul>",
+        "strapline": "The 21st-Century Learning and Skills of Disruptive Innovators",
+        "_graphic": {
+          "src": "course/en/assets/c6c54c288368c7227b0b2f894c295dc142dbe6ad.jpg",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 10,
+        "_top": 12
+      },
+      {
+        "title": "Current Issues and Policies In Education Across Countries",
+        "_ariaLevel": 0,
+        "body": "<ul><li>Kampus Merdeka, Merdeka Belajar.</li><li>Literacy enrichment across countries.</li><li>Coping with virtual teaching during pandemic.</li></ul>",
+        "strapline": "Current Issues and Policies In Education Across Countries",
+        "_graphic": {
+          "src": "course/en/assets/e307e5edaa4b0b3af3cd13a3cd5c37689f9bfc46.jpg",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 29,
+        "_top": 52
+      },
+      {
+        "title": "Prospective English Teachers In Disruptive Era",
+        "_ariaLevel": 0,
+        "body": "<ul><li>Common European Framework of References for Languages (CEFR).</li><li>European Porfiling Grid (EPG).</li><li>Quality of Teacher Education Institutions.</li></ul>",
+        "strapline": "Prospective English Teachers In Disruptive Era",
+        "_graphic": {
+          "src": "course/en/assets/a452e6bbaa0f53efa402156f37a61dc17a24ffdd.jpg",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 47,
+        "_top": 12
+      },
+      {
+        "title": "Innovation in Education of the Era of Industrial Revolusion Era 4.0 ",
+        "_ariaLevel": 0,
+        "body": "<ul><li>IR 4.0.</li><li>Higher Education in IR 4.0.</li><li>Future Skills for Future Job.</li><li>4C's Skills (Critical thinking, Communication, Collaboration, Creativity).</li></ul><p>&nbsp;</p>",
+        "strapline": "Innovation in Education of the Era of Industrial Revolusion Era 4.0 ",
+        "_graphic": {
+          "src": "course/en/assets/7d9774a55f8e17075f6e7c6e0fbdbc17195d690f.jpg",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 65,
+        "_top": 52
+      },
+      {
+        "title": "Current Issues Published in Reputable Sources",
+        "_ariaLevel": 0,
+        "body": "<ul><li>Indonesian literacy rate.</li><li>Assessment in 21st -Century Education.</li></ul><p>&nbsp;</p>",
+        "strapline": "Current Issues Published in Reputable Sources",
+        "_graphic": {
+          "src": "course/en/assets/74c95b27bb034e894ed9ec4c7204909e4cb96da4.jpg",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 83,
+        "_top": 12
+      }
+    ]
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "WORKING TOWARD MASTERY",
+    "displayTitle": "WORKING TOWARD MASTERY",
+    "body": "",
+    "_id": "5f874bf6b1179b13bc9f5584",
+    "_parentId": "5f872b5bb1179b13bc9f557a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/f74fb8f55ea6f38b1f751ce528e75f9b653e05f5.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/0659bac02c57bcf93c5319d4bd5425daf590a9e0.png",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": true,
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "list",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "DOING YOUR BEST WORK",
+    "displayTitle": "DOING YOUR BEST WORK",
+    "body": "",
+    "_id": "5f87e33ac343f02454bee577",
+    "_parentId": "5f874289b1179b13bc9f5581",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 40,
+    "_orderedList": false,
+    "_items": [
+      {
+        "title": "Working from home and/or in the library",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "Technology requirements",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "Time management",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "Keeping 4 Cs (Communication, Critical thinking, Creativity, and Collaboration)",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "REFERENCES",
+    "displayTitle": "REFERENCES",
+    "body": "<ul><li>Bulman, Jenny H. (2017). <em>Children's Reading of Film and Visual Literacy in the Primary Curriculum. A Progression Framework Model</em>. Lincolnshire, UK: Springer International Publishing.</li><li>Christensen, Clayton dan Eyring, Henry, J. (2012). The innovative university: changing the DNA of higher education. <em>Forum for the Future of Higher Education</em>. 47-57</li><li>Dyer, Jeff, Gregerson, Hal, Christensen, Clayton.M. (2011). <em>The innovators’s DNA: mastering the five skills of disruptive innovators</em>. Boston, Mass: Harvard Business Review Press.</li><li>Kementerian Pendidikan dan Kebudayaan. 2020. \"Merdeka Belajar. Episode Kelima. Guru Penggerak\" Jakarta: Kemendikbud.</li><li>Mayuni, Ilza et.al. (2020). School Literacy Movement and Its Implications towards students: A Comparative Case Study in Jakarta and Taiwan. <em>International Journal of Advanced Science and Technology</em>. Vol.29. 2020.</li><li>UNESCO. 2016. <em>Metacognition “How we reflect, learn, and adapt”</em>. Paris: UNESCO.</li><li>OECD. 2011. <em>Building a high quality teaching profession: lessons from around the world.</em></li><li>Gibs, Paul. 2017. <em>Transdisciplinary Higher Education: A Theoretical Basis Revealed in Practice.</em> London: Middlesex University.</li><li>Lombardi, Marilyn M. (2007). Authentic Learning for the 21st-Century: an overview.&nbsp; <em>Educause, Learning Initiative.</em></li><li>Saavedra, Anna R. Dan Opfer, V.D. (2012). <em>Teaching and learning 21st-century skills: lessons from the learning sciences.</em> RAND Corporation.</li><li>UNESCO 2020. <em>Inclusion and Education. All Means All</em>. Paris: UNESCO.</li></ul>",
+    "_id": "5f881f56c343f02454bee57e",
+    "_parentId": "5f881f36c343f02454bee57d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "THANK YOU",
+    "displayTitle": "THANK YOU",
+    "body": "<p>CONTACT INFORMATION</p>",
+    "_id": "5f88292cc343f02454bee581",
+    "_parentId": "5f882468c343f02454bee57f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "Ilza Mayuni",
+        "body": "<ul><li>ilzamayuni59@gmail.com</li><li>ilza.mayuni@unj.ac.id</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Tara Palupi",
+        "body": "<ul><li>tarapalupi@yahoo.com</li><li>taramustikaning@unj.ac.id</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  }
+]
